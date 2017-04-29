@@ -1,6 +1,6 @@
-# unblockme-solver
+# UnBlock Me Solver
 Using Udacity Course I implemented a program able to solve the game UnBlockMe. UnBlock Me is a game
-freely available on [android](https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree&hl=fr)
+freely available on [android](https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree&hl=fr) and [apple](https://itunes.apple.com/fr/app/unblock-me-free/id315019111?mt=8)
 
 ## Usage
 + Open `unblockme.py`
